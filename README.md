@@ -1,4 +1,4 @@
-# Learn Tutorial connect ollama + scbx typhoon-1.5:8b model
+# Learn Tutorial LLM local python connect ollama + scbx typhoon-1.5:8b model
 
 
 ## In case i used macos
